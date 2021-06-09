@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>signede</string>
+				<string>FBSSignatureValidationService/-(NSUInteger)trustStateForApplication:(id)application</string>
 			</dict>
 		</dict>
 	</array>
