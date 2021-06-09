@@ -25,3 +25,4 @@ implemented some old ios exploit like sockport or v0rtex.
 exploiting a little bit but never complelety success so device will reboot. Yeah some jailbreak scammers implement exploits to let them fail and reboot, that will look like its an issue by the jb tool.
 acutally it useful anyways to know how to reboot iDevices by using exploits 
 see how to crash an app using NSTask
+BTW the .plist and .ipa in the repo are mainly for the website or for fake installations
