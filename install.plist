@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/IJustNeedOffsets/ScamJailbreak/raw/main/Payload.ipa</string>
+					<string>https://github.com/IJustNeedOffsets/ScamJailbreak/blob/main/Payload.ipa?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
